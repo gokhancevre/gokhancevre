@@ -1,3 +1,5 @@
+# Hello, folks! <img src="https://imgur.com/NTgbFrW.gif" width="30px">
+
 My name is Gokhan Cevre and I'm a software developer/DevOps engineer. I'm from Turkey, living in Istanbul. You can find me on [![Twitter][1.2]][1],  or on 
 [![LinkedIn][1.3]][3].
 
